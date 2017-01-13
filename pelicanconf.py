@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = '40423226'
-SITENAME = '40423226個人網誌 (NFU-MDE104B)'
+AUTHOR = '40423223'
+SITENAME = '40423223電腦輔助設計與實習'
 # 不要用文章所在目錄作為類別
 USE_FOLDER_AS_CATEGORY = False
 
