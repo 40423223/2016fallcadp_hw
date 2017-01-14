@@ -672,6 +672,100 @@
 <v t="leo.20170114004420.326"><vh>new:期末自評總結</vh></v>
 </v>
 </v>
+<v t="leo.20170114203149.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170114203149.3"><vh>Recovered node "20161007W4" from @clean index.html</vh>
+<v t="leo.20170114203149.4"><vh>old:20161007W4</vh></v>
+<v t="leo.20170114203149.5"><vh>new:20161007W4</vh></v>
+</v>
+<v t="leo.20170114203149.6"><vh>Recovered node "上課內容1" from @clean index.html</vh>
+<v t="leo.20170114203149.7"><vh>old:上課內容1</vh></v>
+<v t="leo.20170114203149.8"><vh>new:上課內容1</vh></v>
+</v>
+<v t="leo.20170114203149.9"><vh>Recovered node "上課內容2" from @clean index.html</vh>
+<v t="leo.20170114203149.10"><vh>old:上課內容2</vh></v>
+<v t="leo.20170114203149.11"><vh>new:上課內容2</vh></v>
+</v>
+<v t="leo.20170114203149.12"><vh>Recovered node "用2016fallcadp_bg6的名稱,建立小組倉儲" from @clean index.html</vh>
+<v t="leo.20170114203149.13"><vh>old:用2016fallcadp_bg6的名稱,建立小組倉儲</vh></v>
+<v t="leo.20170114203149.14"><vh>new:用2016fallcadp_bg6的名稱,建立小組倉儲</vh></v>
+</v>
+<v t="leo.20170114203149.15"><vh>Recovered node "20161014W5" from @clean index.html</vh>
+<v t="leo.20170114203149.16"><vh>old:20161014W5</vh></v>
+<v t="leo.20170114203149.17"><vh>new:20161014W5</vh></v>
+</v>
+<v t="leo.20170114203149.18"><vh>Recovered node "上課日期" from @clean index.html</vh>
+<v t="leo.20170114203149.19"><vh>old:上課日期</vh></v>
+<v t="leo.20170114203149.20"><vh>new:上課日期</vh></v>
+</v>
+<v t="leo.20170114203149.21"><vh>Recovered node "20161014" from @clean index.html</vh>
+<v t="leo.20170114203149.22"><vh>old:20161014</vh></v>
+<v t="leo.20170114203149.23"><vh>new:20161014</vh></v>
+</v>
+<v t="leo.20170114203149.24"><vh>Recovered node "上課內容1" from @clean index.html</vh>
+<v t="leo.20170114203149.25"><vh>old:上課內容1</vh></v>
+<v t="leo.20170114203149.26"><vh>new:上課內容1</vh></v>
+</v>
+<v t="leo.20170114203149.27"><vh>Recovered node "20161021W6" from @clean index.html</vh>
+<v t="leo.20170114203149.28"><vh>old:20161021W6</vh></v>
+<v t="leo.20170114203149.29"><vh>new:20161021W6</vh></v>
+</v>
+<v t="leo.20170114203149.30"><vh>Recovered node "上課日期" from @clean index.html</vh>
+<v t="leo.20170114203149.31"><vh>old:上課日期</vh></v>
+<v t="leo.20170114203149.32"><vh>new:上課日期</vh></v>
+</v>
+<v t="leo.20170114203149.33"><vh>Recovered node "20161021" from @clean index.html</vh>
+<v t="leo.20170114203149.34"><vh>old:20161021</vh></v>
+<v t="leo.20170114203149.35"><vh>new:20161021</vh></v>
+</v>
+<v t="leo.20170114203149.36"><vh>Recovered node "上課內容1" from @clean index.html</vh>
+<v t="leo.20170114203149.37"><vh>old:上課內容1</vh></v>
+<v t="leo.20170114203149.38"><vh>new:上課內容1</vh></v>
+</v>
+<v t="leo.20170114203149.39"><vh>Recovered node "解決子模組在對應上的問題" from @clean index.html</vh>
+<v t="leo.20170114203149.40"><vh>old:解決子模組在對應上的問題</vh></v>
+<v t="leo.20170114203149.41"><vh>new:解決子模組在對應上的問題</vh></v>
+</v>
+<v t="leo.20170114203149.42"><vh>Recovered node "20161028W7" from @clean index.html</vh>
+<v t="leo.20170114203149.43"><vh>old:20161028W7</vh></v>
+<v t="leo.20170114203149.44"><vh>new:20161028W7</vh></v>
+</v>
+<v t="leo.20170114203149.45"><vh>Recovered node "上課日期" from @clean index.html</vh>
+<v t="leo.20170114203149.46"><vh>old:上課日期</vh></v>
+<v t="leo.20170114203149.47"><vh>new:上課日期</vh></v>
+</v>
+<v t="leo.20170114203149.48"><vh>Recovered node "20161028" from @clean index.html</vh>
+<v t="leo.20170114203149.49"><vh>old:20161028</vh></v>
+<v t="leo.20170114203149.50"><vh>new:20161028</vh></v>
+</v>
+<v t="leo.20170114203149.51"><vh>Recovered node "上課內容1" from @clean index.html</vh>
+<v t="leo.20170114203149.52"><vh>old:上課內容1</vh></v>
+<v t="leo.20170114203149.53"><vh>new:上課內容1</vh></v>
+</v>
+<v t="leo.20170114203149.54"><vh>Recovered node "使用Trace Point計算路徑" from @clean index.html</vh>
+<v t="leo.20170114203149.55"><vh>old:使用Trace Point計算路徑</vh></v>
+<v t="leo.20170114203149.56"><vh>new:使用Trace Point計算路徑</vh></v>
+</v>
+<v t="leo.20170114203149.57"><vh>Recovered node "20161104W8" from @clean index.html</vh>
+<v t="leo.20170114203149.58"><vh>old:20161104W8</vh></v>
+<v t="leo.20170114203149.59"><vh>new:20161104W8</vh></v>
+</v>
+<v t="leo.20170114203149.60"><vh>Recovered node "上課日期" from @clean index.html</vh>
+<v t="leo.20170114203149.61"><vh>old:上課日期</vh></v>
+<v t="leo.20170114203149.62"><vh>new:上課日期</vh></v>
+</v>
+<v t="leo.20170114203149.63"><vh>Recovered node "20161104" from @clean index.html</vh>
+<v t="leo.20170114203149.64"><vh>old:20161104</vh></v>
+<v t="leo.20170114203149.65"><vh>new:20161104</vh></v>
+</v>
+<v t="leo.20170114203149.66"><vh>Recovered node "上課內容1" from @clean index.html</vh>
+<v t="leo.20170114203149.67"><vh>old:上課內容1</vh></v>
+<v t="leo.20170114203149.68"><vh>new:上課內容1</vh></v>
+</v>
+<v t="leo.20170114203149.69"><vh>Recovered node "期中課程評量" from @clean index.html</vh>
+<v t="leo.20170114203149.70"><vh>old:期中課程評量</vh></v>
+<v t="leo.20170114203149.71"><vh>new:期中課程評量</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="amd.20151215170031.1"></t>
@@ -936,7 +1030,6 @@ redirecting ....
 </t>
 <t tx="leo.20161014111031.40">					&lt;/section&gt;
 @others
-						&lt;p&gt;作業3&lt;/p&gt;
 </t>
 <t tx="leo.20161014111031.41">
 				&lt;section&gt;
@@ -946,7 +1039,7 @@ redirecting ....
 
 				&lt;section&gt;
 					&lt;section&gt;
-						&lt;p&gt;作業3請往下 作業4請往右&lt;/p&gt;
+						&lt;p&gt;作業3&lt;/p&gt;
 					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Ft__ZZO_niQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20161014111031.42">					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ydZxFfLEyMU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
@@ -956,20 +1049,9 @@ redirecting ....
 </t>
 <t tx="leo.20161014111031.43">				
 						
-					
 @others
-					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gPo1dmp7f5c" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-				
-						
-					
-					&lt;/section&gt;
-					&lt;section&gt;
 </t>
-<t tx="leo.20161014111031.44">					&lt;/section&gt;
-
-					&lt;section&gt;
-						&lt;p&gt;作業3&lt;/p&gt;
-</t>
+<t tx="leo.20161014111031.44"></t>
 <t tx="leo.20161014111031.5">	&lt;body&gt;
 @others
 </t>
@@ -1000,18 +1082,12 @@ redirecting ....
 @others
 						&lt;p&gt;作業2&lt;/p&gt;
 </t>
-<t tx="leo.20161103232830.1">					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/BjNY2ZK_0OQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-@others
-				&lt;section&gt;
+<t tx="leo.20161103232830.1">@others
 </t>
 <t tx="leo.20161103232830.2">					
 					&lt;/section&gt;
 @others
-				&lt;section&gt;
-					&lt;p&gt;作業4&lt;/p&gt;
-					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/AdBvhRRuhgU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-				&lt;/section&gt;
-
+				
 </t>
 <t tx="leo.20161103232830.3">					&lt;section data-background="http://i.giphy.com/90F8aUepslB84.gif"&gt;
 						&lt;h2&gt;... and GIFs!&lt;/h2&gt;
@@ -1019,44 +1095,16 @@ redirecting ....
 				&lt;/section&gt;
 
 </t>
-<t tx="leo.20161103232832.1">					&lt;p&gt;作業4&lt;/p&gt;
-@others
-				&lt;/section&gt;
+<t tx="leo.20161103232832.1">@others
 </t>
-<t tx="leo.20161103232832.2">					&lt;p&gt;作業4&lt;/p&gt;
-					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/UEyyR0mh9Kk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-@others
-				&lt;/section&gt;
-
-				 &lt;section&gt;
-					&lt;h2&gt;心得&lt;/h2&gt;
-					&lt;p&gt;這一次week456又有新的東西了,我們還去老師給的零件網站,去取零件的圖,插入匯入最後組合出成品,是一個全新的體驗很棒,還是很喜歡大家一起討論的感覺.&lt;p&gt;
+<t tx="leo.20161103232832.2">@others
 </t>
-<t tx="leo.20161103232832.3">				&lt;/section&gt;
-
-				&lt;section&gt;
-					&lt;p&gt;作業4&lt;/p&gt;
-					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/CgB678cjUhI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+<t tx="leo.20161103232832.3"></t>
+<t tx="leo.20161103233616.1">@others
 </t>
-<t tx="leo.20161103233616.1">
-@others
-				&lt;/section&gt;
+<t tx="leo.20161103233616.2">@others
 </t>
-<t tx="leo.20161103233616.2">
-				&lt;section&gt;
-@others
-					&lt;p&gt;這一次的作業,時候我們在討論時時出現點點的難題,因為我們在想如果一個尺寸變了,那其他零件的尺寸會不會也跟著變了之類的,但總結我們這一次討論情況還是非常好,討論很熱絡&lt;p&gt;
-				&lt;/section&gt;
-                             &lt;section&gt;
-					&lt;p&gt;作業6&lt;/p&gt;
-					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/dktF_l6UY8o" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
-<t tx="leo.20161103233616.3">					&lt;p&gt;作業5&lt;/p&gt;
-					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ZZ8DBt7tuYk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-				&lt;/section&gt;
-				&lt;section&gt;
-					&lt;h2&gt;心得&lt;/h2&gt;
-</t>
+<t tx="leo.20161103233616.3"></t>
 <t tx="leo.20161104010025.1"> &lt;/p&gt;
 				&lt;/section&gt;
 @others
@@ -1121,72 +1169,32 @@ redirecting ....
 <t tx="leo.20161104010854.2">				&lt;section&gt;
 						&lt;p&gt;作業3&lt;/p&gt;
 </t>
-<t tx="leo.20161104011343.1">				
-						
-@others
+<t tx="leo.20161104011343.1">@others
 					&lt;section&gt;
 			
 			&lt;h2&gt;心得&lt;/h2&gt;
 				&lt;p&gt;我們組員真的很團結,這次的作業是大家堅持一起完成,所以大家真的都從這次的作業中到學很多繪圖技巧,雖然一開始有一點困難,但大家還是完成了這次的作業,謝謝老師介紹Onshape給我們,讓我又多學習了一個技能,這次的小組合作令我印象深刻,謝謝各位&lt;p&gt;
 		
 </t>
-<t tx="leo.20161104011343.2">					
-					&lt;/section&gt;
+<t tx="leo.20161104011343.2">					&lt;/section&gt;
 </t>
-<t tx="leo.20161104011407.1">					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_IBrCR0BCEs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-				&lt;/section&gt;
-@others
-			                &lt;p&gt;作業4&lt;/p&gt;
-			                &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gun-R6LVY3c" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-				&lt;/section&gt;
-
-				&lt;section&gt;
+<t tx="leo.20161104011407.1">@others
 </t>
-<t tx="leo.20161104011407.2">
-				&lt;section&gt;
+<t tx="leo.20161104011407.2"></t>
+<t tx="leo.20161104011701.1">@others
 </t>
-<t tx="leo.20161104011701.1">				&lt;section&gt;
-					&lt;p&gt;作業5&lt;/p&gt;
-@others
-
-				&lt;section&gt;
-					&lt;p&gt;作業5&lt;/p&gt;
-					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Vj1Pi6R-Xus" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-				&lt;/section&gt;
-</t>
-<t tx="leo.20161104011701.2">					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/SWmuThwltWo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-				&lt;/section&gt;
-</t>
-<t tx="leo.20161104203720.1">                                 &lt;section&gt;
-@others
+<t tx="leo.20161104011701.2"></t>
+<t tx="leo.20161104203720.1">@others
 				
 </t>
-<t tx="leo.20161104203720.2">					&lt;p&gt;作業6&lt;/p&gt;
-					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pCNcDhYsaM8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-@others
-				&lt;section&gt;
-					&lt;p&gt;作業6&lt;/p&gt;
-					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pIv-YnnAzPE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-				&lt;/section&gt;
-
+<t tx="leo.20161104203720.2">@others
 </t>
-<t tx="leo.20161104203720.3">				&lt;/section&gt;
-
-</t>
-<t tx="leo.20161104203720.4">				&lt;section&gt;
-					&lt;p&gt;作業6&lt;/p&gt;
-@others
-					&lt;h2&gt;心得&lt;/h2&gt;
-					&lt;p&gt;發現我們都解決不了的問題時大家會用盡各種方法去解決,最後大家會再討論或解決問題的過程,會發現新的東西,讓自己又更進一步,這是我們這組極大的優點&lt;p&gt;
-				&lt;/section&gt;
+<t tx="leo.20161104203720.3"></t>
+<t tx="leo.20161104203720.4">@others
 
 				
 </t>
-<t tx="leo.20161104203720.5">					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/8rT5k7EoovE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-				&lt;/section&gt;
-
-				&lt;section&gt;
-</t>
+<t tx="leo.20161104203720.5"></t>
 <t tx="leo.20161115000909.1">			&lt;/div&gt;
 @others
 					{ src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
@@ -3671,6 +3679,414 @@ Diff...
 - 				&lt;section&gt;
 ? ----         -
 + &lt;/section&gt;?  +
+</t>
+<t tx="leo.20170114203149.10">				
+						
+					
+@others
+					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gPo1dmp7f5c" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+				
+						
+					
+					&lt;/section&gt;
+					&lt;section&gt;
+</t>
+<t tx="leo.20170114203149.11">				
+						
+@others
+</t>
+<t tx="leo.20170114203149.12">(uncached) leo.20161014111031.44
+Diff...
++ 					&lt;/section&gt;
++ 
++ 					&lt;section&gt;
++ 						&lt;p&gt;作業3&lt;/p&gt;
+</t>
+<t tx="leo.20170114203149.13">					&lt;/section&gt;
+
+					&lt;section&gt;
+						&lt;p&gt;作業3&lt;/p&gt;
+</t>
+<t tx="leo.20170114203149.14"></t>
+<t tx="leo.20170114203149.15">(uncached) leo.20161103232830.1
+Diff...
++ 					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/BjNY2ZK_0OQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+  @others
++ 				&lt;section&gt;
+</t>
+<t tx="leo.20170114203149.16">					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/BjNY2ZK_0OQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+@others
+				&lt;section&gt;
+</t>
+<t tx="leo.20170114203149.17">@others
+</t>
+<t tx="leo.20170114203149.18">(uncached) leo.20161104011343.1
+Diff...
++ 				
++ 						
+  @others
+  					&lt;section&gt;
+  			
+  			&lt;h2&gt;心得&lt;/h2&gt;
+  				&lt;p&gt;我們組員真的很團結,這次的作業是大家堅持一起完成,所以大家真的都從這次的作業中到學很多繪圖技巧,雖然一開始有一點困難,但大家還是完成了這次的作業,謝謝老師介紹Onshape給我們,讓我又多學習了一個技能,這次的小組合作令我印象深刻,謝謝各位&lt;p&gt;
+  		
+</t>
+<t tx="leo.20170114203149.19">				
+						
+@others
+					&lt;section&gt;
+			
+			&lt;h2&gt;心得&lt;/h2&gt;
+				&lt;p&gt;我們組員真的很團結,這次的作業是大家堅持一起完成,所以大家真的都從這次的作業中到學很多繪圖技巧,雖然一開始有一點困難,但大家還是完成了這次的作業,謝謝老師介紹Onshape給我們,讓我又多學習了一個技能,這次的小組合作令我印象深刻,謝謝各位&lt;p&gt;
+		
+</t>
+<t tx="leo.20170114203149.2"></t>
+<t tx="leo.20170114203149.20">@others
+					&lt;section&gt;
+			
+			&lt;h2&gt;心得&lt;/h2&gt;
+				&lt;p&gt;我們組員真的很團結,這次的作業是大家堅持一起完成,所以大家真的都從這次的作業中到學很多繪圖技巧,雖然一開始有一點困難,但大家還是完成了這次的作業,謝謝老師介紹Onshape給我們,讓我又多學習了一個技能,這次的小組合作令我印象深刻,謝謝各位&lt;p&gt;
+		
+</t>
+<t tx="leo.20170114203149.21">(uncached) leo.20161104011343.2
+Diff...
++ 					
+  					&lt;/section&gt;
+</t>
+<t tx="leo.20170114203149.22">					
+					&lt;/section&gt;
+</t>
+<t tx="leo.20170114203149.23">					&lt;/section&gt;
+</t>
+<t tx="leo.20170114203149.24">(uncached) leo.20161103232830.2
+Diff...
+  					
+  					&lt;/section&gt;
+  @others
+- 				
++ 				&lt;section&gt;
++ 					&lt;p&gt;作業4&lt;/p&gt;
++ 					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/AdBvhRRuhgU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
++ 				&lt;/section&gt;
++ 
+</t>
+<t tx="leo.20170114203149.25">					
+					&lt;/section&gt;
+@others
+				&lt;section&gt;
+					&lt;p&gt;作業4&lt;/p&gt;
+					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/AdBvhRRuhgU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+				&lt;/section&gt;
+
+</t>
+<t tx="leo.20170114203149.26">					
+					&lt;/section&gt;
+@others
+				
+</t>
+<t tx="leo.20170114203149.27">(uncached) leo.20161103232832.1
+Diff...
++ 					&lt;p&gt;作業4&lt;/p&gt;
+  @others
++ 				&lt;/section&gt;
+</t>
+<t tx="leo.20170114203149.28">					&lt;p&gt;作業4&lt;/p&gt;
+@others
+				&lt;/section&gt;
+</t>
+<t tx="leo.20170114203149.29">@others
+</t>
+<t tx="leo.20170114203149.3">(uncached) leo.20161014111031.40
+Diff...
+  					&lt;/section&gt;
+  @others
++ 						&lt;p&gt;作業3&lt;/p&gt;
+</t>
+<t tx="leo.20170114203149.30">(uncached) leo.20161104011407.1
+Diff...
++ 					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_IBrCR0BCEs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
++ 				&lt;/section&gt;
+  @others
++ 			                &lt;p&gt;作業4&lt;/p&gt;
++ 			                &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gun-R6LVY3c" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
++ 				&lt;/section&gt;
++ 
++ 				&lt;section&gt;
+</t>
+<t tx="leo.20170114203149.31">					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_IBrCR0BCEs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+				&lt;/section&gt;
+@others
+			                &lt;p&gt;作業4&lt;/p&gt;
+			                &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gun-R6LVY3c" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+				&lt;/section&gt;
+
+				&lt;section&gt;
+</t>
+<t tx="leo.20170114203149.32">@others
+</t>
+<t tx="leo.20170114203149.33">(uncached) leo.20161104011407.2
+Diff...
++ 
++ 				&lt;section&gt;
+</t>
+<t tx="leo.20170114203149.34">
+				&lt;section&gt;
+</t>
+<t tx="leo.20170114203149.35"></t>
+<t tx="leo.20170114203149.36">(uncached) leo.20161103232832.2
+Diff...
++ 					&lt;p&gt;作業4&lt;/p&gt;
++ 					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/UEyyR0mh9Kk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+  @others
++ 				&lt;/section&gt;
++ 
++ 				 &lt;section&gt;
++ 					&lt;h2&gt;心得&lt;/h2&gt;
++ 					&lt;p&gt;這一次week456又有新的東西了,我們還去老師給的零件網站,去取零件的圖,插入匯入最後組合出成品,是一個全新的體驗很棒,還是很喜歡大家一起討論的感覺.&lt;p&gt;
+</t>
+<t tx="leo.20170114203149.37">					&lt;p&gt;作業4&lt;/p&gt;
+					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/UEyyR0mh9Kk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+@others
+				&lt;/section&gt;
+
+				 &lt;section&gt;
+					&lt;h2&gt;心得&lt;/h2&gt;
+					&lt;p&gt;這一次week456又有新的東西了,我們還去老師給的零件網站,去取零件的圖,插入匯入最後組合出成品,是一個全新的體驗很棒,還是很喜歡大家一起討論的感覺.&lt;p&gt;
+</t>
+<t tx="leo.20170114203149.38">@others
+</t>
+<t tx="leo.20170114203149.39">(uncached) leo.20161103232832.3
+Diff...
++ 				&lt;/section&gt;
++ 
++ 				&lt;section&gt;
++ 					&lt;p&gt;作業4&lt;/p&gt;
++ 					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/CgB678cjUhI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170114203149.4">					&lt;/section&gt;
+@others
+						&lt;p&gt;作業3&lt;/p&gt;
+</t>
+<t tx="leo.20170114203149.40">				&lt;/section&gt;
+
+				&lt;section&gt;
+					&lt;p&gt;作業4&lt;/p&gt;
+					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/CgB678cjUhI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170114203149.41"></t>
+<t tx="leo.20170114203149.42">(uncached) leo.20161103233616.1
+Diff...
++ 
+  @others
++ 				&lt;/section&gt;
+</t>
+<t tx="leo.20170114203149.43">
+@others
+				&lt;/section&gt;
+</t>
+<t tx="leo.20170114203149.44">@others
+</t>
+<t tx="leo.20170114203149.45">(uncached) leo.20161104011701.1
+Diff...
++ 				&lt;section&gt;
++ 					&lt;p&gt;作業5&lt;/p&gt;
+  @others
++ 
++ 				&lt;section&gt;
++ 					&lt;p&gt;作業5&lt;/p&gt;
++ 					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Vj1Pi6R-Xus" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
++ 				&lt;/section&gt;
+</t>
+<t tx="leo.20170114203149.46">				&lt;section&gt;
+					&lt;p&gt;作業5&lt;/p&gt;
+@others
+
+				&lt;section&gt;
+					&lt;p&gt;作業5&lt;/p&gt;
+					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Vj1Pi6R-Xus" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+				&lt;/section&gt;
+</t>
+<t tx="leo.20170114203149.47">@others
+</t>
+<t tx="leo.20170114203149.48">(uncached) leo.20161104011701.2
+Diff...
++ 					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/SWmuThwltWo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
++ 				&lt;/section&gt;
+</t>
+<t tx="leo.20170114203149.49">					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/SWmuThwltWo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+				&lt;/section&gt;
+</t>
+<t tx="leo.20170114203149.5">					&lt;/section&gt;
+@others
+</t>
+<t tx="leo.20170114203149.50"></t>
+<t tx="leo.20170114203149.51">(uncached) leo.20161103233616.2
+Diff...
++ 
++ 				&lt;section&gt;
+  @others
++ 					&lt;p&gt;這一次的作業,時候我們在討論時時出現點點的難題,因為我們在想如果一個尺寸變了,那其他零件的尺寸會不會也跟著變了之類的,但總結我們這一次討論情況還是非常好,討論很熱絡&lt;p&gt;
++ 				&lt;/section&gt;
++                              &lt;section&gt;
++ 					&lt;p&gt;作業6&lt;/p&gt;
++ 					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/dktF_l6UY8o" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170114203149.52">
+				&lt;section&gt;
+@others
+					&lt;p&gt;這一次的作業,時候我們在討論時時出現點點的難題,因為我們在想如果一個尺寸變了,那其他零件的尺寸會不會也跟著變了之類的,但總結我們這一次討論情況還是非常好,討論很熱絡&lt;p&gt;
+				&lt;/section&gt;
+                             &lt;section&gt;
+					&lt;p&gt;作業6&lt;/p&gt;
+					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/dktF_l6UY8o" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170114203149.53">@others
+</t>
+<t tx="leo.20170114203149.54">(uncached) leo.20161103233616.3
+Diff...
++ 					&lt;p&gt;作業5&lt;/p&gt;
++ 					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ZZ8DBt7tuYk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
++ 				&lt;/section&gt;
++ 				&lt;section&gt;
++ 					&lt;h2&gt;心得&lt;/h2&gt;
+</t>
+<t tx="leo.20170114203149.55">					&lt;p&gt;作業5&lt;/p&gt;
+					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ZZ8DBt7tuYk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+				&lt;/section&gt;
+				&lt;section&gt;
+					&lt;h2&gt;心得&lt;/h2&gt;
+</t>
+<t tx="leo.20170114203149.56"></t>
+<t tx="leo.20170114203149.57">(uncached) leo.20161104203720.1
+Diff...
++                                  &lt;section&gt;
+  @others
+  				
+</t>
+<t tx="leo.20170114203149.58">                                 &lt;section&gt;
+@others
+				
+</t>
+<t tx="leo.20170114203149.59">@others
+				
+</t>
+<t tx="leo.20170114203149.6">(uncached) leo.20161014111031.41
+Diff...
+  
+  				&lt;section&gt;
+  						&lt;p&gt;作業3&lt;/p&gt;
+  @others
+  					&lt;/section&gt;
+  
+  				&lt;section&gt;
+  					&lt;section&gt;
+- 						&lt;p&gt;作業3&lt;/p&gt;
++ 						&lt;p&gt;作業3請往下 作業4請往右&lt;/p&gt;
+? 						      ++++++++++
+  					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Ft__ZZO_niQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170114203149.60">(uncached) leo.20161104203720.2
+Diff...
++ 					&lt;p&gt;作業6&lt;/p&gt;
++ 					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pCNcDhYsaM8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+  @others
++ 				&lt;section&gt;
++ 					&lt;p&gt;作業6&lt;/p&gt;
++ 					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pIv-YnnAzPE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
++ 				&lt;/section&gt;
++ 
+</t>
+<t tx="leo.20170114203149.61">					&lt;p&gt;作業6&lt;/p&gt;
+					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pCNcDhYsaM8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+@others
+				&lt;section&gt;
+					&lt;p&gt;作業6&lt;/p&gt;
+					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pIv-YnnAzPE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+				&lt;/section&gt;
+
+</t>
+<t tx="leo.20170114203149.62">@others
+</t>
+<t tx="leo.20170114203149.63">(uncached) leo.20161104203720.3
+Diff...
++ 				&lt;/section&gt;
++ 
+</t>
+<t tx="leo.20170114203149.64">				&lt;/section&gt;
+
+</t>
+<t tx="leo.20170114203149.65"></t>
+<t tx="leo.20170114203149.66">(uncached) leo.20161104203720.4
+Diff...
++ 				&lt;section&gt;
++ 					&lt;p&gt;作業6&lt;/p&gt;
+  @others
++ 					&lt;h2&gt;心得&lt;/h2&gt;
++ 					&lt;p&gt;發現我們都解決不了的問題時大家會用盡各種方法去解決,最後大家會再討論或解決問題的過程,會發現新的東西,讓自己又更進一步,這是我們這組極大的優點&lt;p&gt;
++ 				&lt;/section&gt;
+  
+  				
+</t>
+<t tx="leo.20170114203149.67">				&lt;section&gt;
+					&lt;p&gt;作業6&lt;/p&gt;
+@others
+					&lt;h2&gt;心得&lt;/h2&gt;
+					&lt;p&gt;發現我們都解決不了的問題時大家會用盡各種方法去解決,最後大家會再討論或解決問題的過程,會發現新的東西,讓自己又更進一步,這是我們這組極大的優點&lt;p&gt;
+				&lt;/section&gt;
+
+				
+</t>
+<t tx="leo.20170114203149.68">@others
+
+				
+</t>
+<t tx="leo.20170114203149.69">(uncached) leo.20161104203720.5
+Diff...
++ 					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/8rT5k7EoovE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
++ 				&lt;/section&gt;
++ 
++ 				&lt;section&gt;
+</t>
+<t tx="leo.20170114203149.7">
+				&lt;section&gt;
+						&lt;p&gt;作業3&lt;/p&gt;
+@others
+					&lt;/section&gt;
+
+				&lt;section&gt;
+					&lt;section&gt;
+						&lt;p&gt;作業3請往下 作業4請往右&lt;/p&gt;
+					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Ft__ZZO_niQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170114203149.70">					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/8rT5k7EoovE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+				&lt;/section&gt;
+
+				&lt;section&gt;
+</t>
+<t tx="leo.20170114203149.71"></t>
+<t tx="leo.20170114203149.8">
+				&lt;section&gt;
+						&lt;p&gt;作業3&lt;/p&gt;
+@others
+					&lt;/section&gt;
+
+				&lt;section&gt;
+					&lt;section&gt;
+						&lt;p&gt;作業3&lt;/p&gt;
+					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Ft__ZZO_niQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170114203149.9">(uncached) leo.20161014111031.43
+Diff...
+  				
+  						
++ 					
+  @others
++ 					&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gPo1dmp7f5c" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
++ 				
++ 						
++ 					
++ 					&lt;/section&gt;
++ 					&lt;section&gt;
 </t>
 </tnodes>
 </leo_file>
