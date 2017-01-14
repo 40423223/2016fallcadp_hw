@@ -2053,11 +2053,11 @@ Diff...
 + ## 2016Fall 電腦輔助設計實習課程
 + ### 虎科大機械設計工程系
 + ### 設計二乙
-+ ### 40423226
-+ ### 胡 原 愷
++ ### 40423223
++ ### 林德威
 + 
 + &lt;small&gt;
-+ [個人網誌](https://40423226.github.io/2016fallcadp_hw/blog/)
++ [個人網誌](https://40423223.github.io/2016fallcadp_hw/blog/)
 + &lt;/small&gt;
 </t>
 <t tx="leo.20170114004420.180">(uncached) leo.20161124210839.3
@@ -2231,7 +2231,7 @@ Diff...
 </t>
 <t tx="leo.20170114004420.21">(uncached) leo.20161014111031.9
 Diff...
-- 					4.創 2016fallcadp_bg100(組別) 將2016fallcadp_bg100 clone下來 2016fallcadp_bg100 git branch git checkout gh-pages git branch(再次檢查) 將自己的2016fallcadp_hw clone網址複製 git submodule add -b gh-pages 網址 學號 git staus(檢查) 依序將隊友的資料夾加入 git add -A git commit -m "名稱" git push origin gh-pages
+- 					4.創 2016fallcadp_bg03(組別) 將2016fallcadp_bg03 clone下來 2016fallcadp_bg03 git branch git checkout gh-pages git branch(再次檢查) 將自己的2016fallcadp_hw clone網址複製 git submodule add -b gh-pages 網址 學號 git staus(檢查) 依序將隊友的資料夾加入 git add -A git commit -m "名稱" git push origin gh-pages
 + &lt;section&gt;
   @others
 - 						&lt;p&gt;作業2&lt;/p&gt;
@@ -3112,7 +3112,7 @@ Diff...
 - 						&lt;/a&gt;
 - 					&lt;/section&gt;
 + ## 建立
-+ ## 40423226.github.io名稱的倉儲
++ ## 40423223.github.io名稱的倉儲
 + 
 + &lt;iframe src="https://player.vimeo.com/video/190063679" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 + 
@@ -3182,7 +3182,7 @@ Diff...
 - 					&lt;h2&gt;筆記&lt;/h2&gt;
 - 						&lt;p&gt;第二週 1.radinsed半徑 2.diameter直徑 3.place放置 4.symmetrically對稱 5.lnitially開始 6.oriented定位 7.axes軸 8.indicated表示 9.respectively分別 10.parallel平行 11.extruding長出 12.automatically自動 13.coincident一模一樣 14.constraint約束 15.horizontal橫 16.perpendicular垂直 17.step圖(格式)
 -                                                 &lt;p&gt;錄影工具:sharex 1.paths 2.task → screen recorder → options 開始錄製:shift+ print screen 射出成型軟體:moldex3d
--                                                 &lt;p&gt;作業 成品影片:https://vimeo.com/185115914
+-                                              
 </t>
 <t tx="leo.20170114004420.52">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -3355,11 +3355,7 @@ Diff...
 - 						
 - 					
 - 					&lt;/section&gt;
-+ ## 複製網誌和簡報的設定檔
-+ ## 到2016fallcadp_hw的倉儲
-+ 
-+ &lt;iframe src="https://player.vimeo.com/video/190065696" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-+ 
+
 + 
 </t>
 <t tx="leo.20170114004420.7">&lt;body&gt;

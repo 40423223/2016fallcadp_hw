@@ -4,28 +4,44 @@
 2
 3
 4
-5&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;      創造力三元素, 機械設計的六種表達, 協同設計的四大面向.
+5
+6
+7
+8&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;      創造力三元素, 機械設計的六種表達, 協同設計的四大面向.
+
 
       1.強化創造能力 - 自學力、程式力與想像力 (Creative Competencies)
-          2.熟習六種表達 - 口語、文字、2D、3D、理論與實體表達 (Six Presentation Methods)
-          3.融入協同設計 - 電腦、網路、軟硬體工具與協同專案 (Collaborative Designs)
+
+      2.熟習六種表達 - 口語、文字、2D、3D、理論與實體表達 (Six Presentation Methods)
+
+      3.融入協同設計 - 電腦、網路、軟硬體工具與協同專案 (Collaborative Designs)
 &lt;/pre&gt;&lt;/div&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 
-&lt;p&gt;&lt;h2&gt;期末心得&lt;/2&gt; &lt;/p&gt;
-&lt;p&gt;這學期結束了在這門課我學習到了很多的軟體與程式，不管是onshape或是solvespace都是我新吸收的知識
-  還有倉儲的觀念，雖然大一已經先碰過了，但是我覺得這學習我得到的觀念是更深入的，老師還有說到
-  很多對於未來的看法與給我們的建議，我覺得都蠻受用的真的是可以幫助我在未來的路上，遇到困難或
-  選擇問題時都可以回想老師說的話。&lt;/p&gt;
+&lt;h2&gt;期末心得&lt;/2&gt;
 
-&lt;p&gt;&lt;h2&gt;上課筆記&lt;/h2&gt;         &lt;br /&gt;
-網址:http://chiamingyen.github.io/kmolab/blog/index.html 下載網址:140.130.17.17(只能在學校裡使用) 2016fall裡的檔案倒數兩個擇一下載(ana2016fall_os(3.0g)or mini2016fall.7z(98m))&lt;/p&gt;
-&lt;p&gt;1.創2016fallcadp_hw 將README打勾 格式:python 加密:agpl 新增gh-pages分支 進入setting 點branches 將master變更為gh-pages 點update 2.git clone 2016fallcadp_hw cd 2016fallcadp_hw git branch git checkout gh-pages git branch(再次檢查) 3.創 學號.github.io 將README打勾 格式:python 加密:agpl 點選create new file 打入index.html 點commit new file&lt;/p&gt;
-&lt;p&gt;4.創 2016fallcadp_bg100(組別) 將2016fallcadp_bg100 clone下來 2016fallcadp_bg100 git branch git checkout gh-pages git branch(再次檢查) 將自己的2016fallcadp_hw clone網址複製 git submodule add -b gh-pages 網址 學號 git staus(檢查) 依序將隊友的資料夾加入 git add -A git commit -m "名稱" git push origin gh-pages&lt;/p&gt;
-&lt;p&gt;1.radinsed半徑 2.diameter直徑 3.place放置 4.symmetrically對稱 5.lnitially開始 6.oriented定位 7.axes軸 8.indicated表示 9.respectively分別 10.parallel平行 11.extruding長出 12.automatically自動 13.coincident一模一樣 14.constraint約束 15.horizontal橫 16.perpendicular垂直 17.step圖(格式)&lt;/p&gt;
-&lt;p&gt;錄影工具:sharex 1.paths 2.task → screen recorder → options 開始錄製:shift+ print screen 射出成型軟體:moldex3d&lt;/p&gt;
-&lt;p&gt;proxy設定:proxy.mde.tw 通訊阜:3128 去聲音指令:ffmpeg.exe -i 檔名 -c copy -an out.mp4 字幕指令:ffmpeg.exe -i out.mp4 -vf subtitles=in.srt out2.mp4 安裝pelican指令:pip install pelican&lt;/p&gt;
-&lt;p&gt;刪除指令:git rm -rf 下載分支內的東西:git submodule update --init --recursive 子模組的對應版本更新到目前最新提交:git submodule foreach "(git checkout gh-pages; git pull)&lt;/p&gt;</summary><category term="期末自評總結"></category></entry><entry><title>onshape 連桿組裝 w16:</title><link href="./onshape-lian-gan-zu-zhuang-w16.html" rel="alternate"></link><published>2017-01-06T12:00:00+08:00</published><updated>2017-01-06T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2017-01-06:./onshape-lian-gan-zu-zhuang-w16.html</id><summary type="html">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mLwSzInik70" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>Linkages (四連桿與多連桿運動模擬) w15:</title><link href="./linkages-si-lian-gan-yu-duo-lian-gan-yun-dong-mo-ni-w15.html" rel="alternate"></link><published>2016-12-30T12:00:00+08:00</published><updated>2016-12-30T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-12-30:./linkages-si-lian-gan-yu-duo-lian-gan-yun-dong-mo-ni-w15.html</id><summary type="html">&lt;p&gt;&lt;p&gt;Linkages (四連桿與多連桿運動模擬):&lt;/p&gt;
+  這學期結束了在這門課我學習到了很多的軟體與程式，不管是onshape或是solvespace都是我新吸收的知識
+
+  還有倉儲的觀念，雖然大一已經先碰過了，但是我覺得這學習我得到的觀念是更深入的，老師還有說到
+
+  很多對於未來的看法與給我們的建議，我覺得都蠻受用的真的是可以幫助我在未來的路上，遇到困難或
+
+  選擇問題時都可以回想老師說的話。
+
+   &lt;h2&gt;上課筆記&lt;/h2&gt;           
+網址:http://chiamingyen.github.io/kmolab/blog/index.html 下載網址:140.130.17.17(只能在學校裡使用) 2016fall裡的檔案倒數兩個擇一下載(ana2016fall_os(3.0g)or mini2016fall.7z(98m))
+
+1.創2016fallcadp_hw 將README打勾 格式:python 加密:agpl 新增gh-pages分支 進入setting 點branches 將master變更為gh-pages 點update 2.git clone 2016fallcadp_hw cd 2016fallcadp_hw git branch git checkout gh-pages git branch(再次檢查) 3.創 學號.github.io 將README打勾 格式:python 加密:agpl 點選create new file 打入index.html 點commit new file
+
+4.創 2016fallcadp_bg100(組別) 將2016fallcadp_bg100 clone下來 2016fallcadp_bg100 git branch git checkout gh-pages git branch(再次檢查) 將自己的2016fallcadp_hw clone網址複製 git submodule add -b gh-pages 網址 學號 git staus(檢查) 依序將隊友的資料夾加入 git add -A git commit -m "名稱" git push origin gh-pages
+
+1.radinsed半徑 2.diameter直徑 3.place放置 4.symmetrically對稱 5.lnitially開始 6.oriented定位 7.axes軸 8.indicated表示 9.respectively分別 10.parallel平行 11.extruding長出 12.automatically自動 13.coincident一模一樣 14.constraint約束 15.horizontal橫 16.perpendicular垂直 17.step圖(格式)
+
+錄影工具:sharex 1.paths 2.task → screen recorder → options 開始錄製:shift+ print screen 射出成型軟體:moldex3d
+
+proxy設定:proxy.mde.tw 通訊阜:3128 去聲音指令:ffmpeg.exe -i 檔名 -c copy -an out.mp4 字幕指令:ffmpeg.exe -i out.mp4 -vf subtitles=in.srt out2.mp4 安裝pelican指令:pip install pelican
+
+刪除指令:git rm -rf 下載分支內的東西:git submodule update --init --recursive 子模組的對應版本更新到目前最新提交:git submodule foreach "(git checkout gh-pages; git pull)</summary><category term="期末自評總結"></category></entry><entry><title>onshape 連桿組裝 w16:</title><link href="./onshape-lian-gan-zu-zhuang-w16.html" rel="alternate"></link><published>2017-01-06T12:00:00+08:00</published><updated>2017-01-06T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2017-01-06:./onshape-lian-gan-zu-zhuang-w16.html</id><summary type="html">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mLwSzInik70" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>Linkages (四連桿與多連桿運動模擬) w15:</title><link href="./linkages-si-lian-gan-yu-duo-lian-gan-yun-dong-mo-ni-w15.html" rel="alternate"></link><published>2016-12-30T12:00:00+08:00</published><updated>2016-12-30T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-12-30:./linkages-si-lian-gan-yu-duo-lian-gan-yun-dong-mo-ni-w15.html</id><summary type="html">&lt;p&gt;&lt;p&gt;Linkages (四連桿與多連桿運動模擬):&lt;/p&gt;
         &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/oxu-mzaZjss" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
         &lt;p&gt;&lt;img src="./../data/40423223..png" width="800" /&gt;&lt;/p&gt;
         &lt;p&gt;將所得到的點座標 .csv 以 Excel 畫圖, 得到:&lt;/p&gt;&lt;br /&gt;
@@ -47,8 +63,12 @@
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gPo1dmp7f5c" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;心得:這一次已經比上一次熟練很多了也越來越熟練onshaope的指令跟功能了&lt;/p&gt;
+&lt;h2&gt;網誌無法更新&lt;/h2&gt;
+
 &lt;p&gt; github更新後裡面資料因為更新而造成無法讀取
+
 需要把資料clone下來之後把無法更新的資料刪除後
+
 再回推回去就會恢復正常 &lt;/p&gt;
 
 &lt;p&gt;The page build failed with the following error:
@@ -135,10 +155,16 @@ ctx.strokeStyle = "blue"
 # 實際執行畫線
 ctx.stroke()
 ctx.closePath()
-&lt;/script&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>week1,week2W9</title><link href="./week1week2w9.html" rel="alternate"></link><published>2016-11-11T12:00:00+08:00</published><updated>2016-11-11T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-11-11:./week1week2w9.html</id><summary type="html">&lt;p&gt;week1
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/DeiSRrQImVA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;心得:第一次用onshape我覺得比solvespace好用很多但是可能是第一次用的關西所以對於功能還不是這麼熟練&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>期中課程評量W8</title><link href="./qi-zhong-ke-cheng-ping-liang-w8.html" rel="alternate"></link><published>2016-11-04T12:00:00+08:00</published><updated>2016-11-04T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-11-04:./qi-zhong-ke-cheng-ping-liang-w8.html</id><summary type="html">&lt;h2&gt;&lt;a href="http://pygroup-ag100.rhcloud.com"&gt;期中評量&lt;/a&gt;&lt;/h2&gt;</summary><category term="上課內容"></category></entry><entry><title>畫出聯桿路徑W7</title><link href="./hua-chu-lian-gan-lu-jing-w7.html" rel="alternate"></link><published>2016-10-28T12:00:00+08:00</published><updated>2016-10-28T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-28:./hua-chu-lian-gan-lu-jing-w7.html</id><summary type="html">&lt;h2&gt;使用Trace Point計算路徑&lt;h2&gt;
-&lt;img src="./../data/40423223.png" width="800" /&gt;</summary><category term="上課內容"></category><category term="解決問題"></category><category term="子模組"></category></entry><entry><title>解決對應上的問題W6</title><link href="./jie-jue-dui-ying-shang-de-wen-ti-w6.html" rel="alternate"></link><published>2016-10-21T12:00:00+08:00</published><updated>2016-10-21T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-10-21:./jie-jue-dui-ying-shang-de-wen-ti-w6.html</id><summary type="html">&lt;p&gt;有兩個方法&lt;/p&gt;
+&lt;/script&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>week1W9</title><link href="./week1w9.html" rel="alternate"></link><published>2016-11-11T12:00:00+08:00</published><updated>2016-11-11T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-11-11:./week1w9.html</id><summary type="html">&lt;p&gt;week1&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/DeiSRrQImVA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;心得:第一次用onshape我覺得比solvespace好用很多但是可能是第一次用的關西所以對於功能還不是這麼熟練&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>期中課程評量W8</title><link href="./qi-zhong-ke-cheng-ping-liang-w8.html" rel="alternate"></link><published>2016-11-04T12:00:00+08:00</published><updated>2016-11-04T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-11-04:./qi-zhong-ke-cheng-ping-liang-w8.html</id><summary type="html">&lt;h2&gt;&lt;a href="http://pygroup-ag100.rhcloud.com"&gt;期中評量&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;到老師指定的地方打分數&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>畫出聯桿路徑W7</title><link href="./hua-chu-lian-gan-lu-jing-w7.html" rel="alternate"></link><published>2016-10-28T12:00:00+08:00</published><updated>2016-10-28T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-10-28:./hua-chu-lian-gan-lu-jing-w7.html</id><summary type="html">&lt;h2&gt;使用Trace Point計算路徑&lt;h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/tdflDTZT9LU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;img src="./../data/40423223....png" width="800" /&gt;</summary><category term="上課內容"></category><category term="解決問題"></category><category term="子模組"></category></entry><entry><title>解決對應上的問題W6</title><link href="./jie-jue-dui-ying-shang-de-wen-ti-w6.html" rel="alternate"></link><published>2016-10-21T12:00:00+08:00</published><updated>2016-10-21T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-10-21:./jie-jue-dui-ying-shang-de-wen-ti-w6.html</id><summary type="html">&lt;p&gt;有兩個方法&lt;/p&gt;
 
 &lt;h2&gt;法一&lt;/h2&gt;
 
@@ -153,6 +179,8 @@ ctx.closePath()
 &lt;p&gt;但是在2016fallcadp_bg6\.git\modules裡的隱藏資料夾,還是需要自己動手刪除&lt;/p&gt;</summary><category term="上課內容"></category><category term="解決問題"></category><category term="子模組"></category></entry><entry><title>新的繪圖軟體SolveSpaceW5</title><link href="./xin-de-hui-tu-ruan-ti-solvespacew5.html" rel="alternate"></link><published>2016-10-14T12:00:00+08:00</published><updated>2016-10-14T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-10-14:./xin-de-hui-tu-ruan-ti-solvespacew5.html</id><summary type="html">&lt;p&gt;今天介紹了新的繪圖軟體SolveSpace用起來不太習慣
 功能也還不太會用之後要多多練習&lt;/p&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>建立小組W4</title><link href="./jian-li-xiao-zu-w4.html" rel="alternate"></link><published>2016-10-07T12:00:00+08:00</published><updated>2016-10-07T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-10-07:./jian-li-xiao-zu-w4.html</id><summary type="html">&lt;h2&gt;建立各小組的倉儲把成員加入倉儲內&lt;/h2&gt;</summary><category term="上課內容"></category></entry><entry><title>網路更改W3</title><link href="./wang-lu-geng-gai-w3.html" rel="alternate"></link><published>2016-09-30T12:00:00+08:00</published><updated>2016-09-30T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-09-30:./wang-lu-geng-gai-w3.html</id><summary type="html">&lt;p&gt;&lt;h&gt;複製網誌和簡報的設定檔到2016fallcadp_hw的倉儲&lt;/h&gt;
 更改較快網路&lt;/p&gt;
+&lt;p&gt;由於上課時都是用同一個網路所以大家網路都會
+變得很慢切，換網路後會比一開始的快很多&lt;/p&gt;
 &lt;h3&gt;proxy.mde.tw  3128&lt;/h3&gt;</summary><category term="上課內容"></category><category term="解決問題"></category><category term="環境設定"></category></entry><entry><title>SolveSpace 2D w2</title><link href="./solvespace-2d-w2.html" rel="alternate"></link><published>1111-02-22T22:22:00+08:06</published><updated>1111-02-22T22:22:00+08:06</updated><author><name>40423223</name></author><id>tag:,1111-02-22:./solvespace-2d-w2.html</id><summary type="html">&lt;p&gt;2D成品&lt;/p&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/190062872" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
