@@ -31,7 +31,10 @@
 &lt;p&gt;proxy設定:proxy.mde.tw 通訊阜:3128 去聲音指令:ffmpeg.exe -i 檔名 -c copy -an out.mp4 字幕指令:ffmpeg.exe -i out.mp4 -vf subtitles=in.srt out2.mp4 安裝pelican指令:pip install pelican&lt;/p&gt;
 &lt;p&gt;刪除指令:git rm -rf 下載分支內的東西:git submodule update --init --recursive 子模組的對應版本更新到目前最新提交:git submodule foreach "(git checkout gh-pages; git pull)&lt;/p&gt;</summary><category term="期末自評總結"></category></entry><entry><title>onshape 連桿組裝 w16:</title><link href="./onshape-lian-gan-zu-zhuang-w16.html" rel="alternate"></link><published>2017-01-06T12:00:00+08:00</published><updated>2017-01-06T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2017-01-06:./onshape-lian-gan-zu-zhuang-w16.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mLwSzInik70" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>Linkages (四連桿與多連桿運動模擬) w15:</title><link href="./linkages-si-lian-gan-yu-duo-lian-gan-yun-dong-mo-ni-w15.html" rel="alternate"></link><published>2016-12-30T12:00:00+08:00</published><updated>2016-12-30T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-12-30:./linkages-si-lian-gan-yu-duo-lian-gan-yun-dong-mo-ni-w15.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mLwSzInik70" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;心得:這次的作業我覺得最麻煩的部分就是在組裝，因為每一次組裝都一定要點到他要的位子，
+才會剛好組上去&lt;/p&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>Linkages (四連桿與多連桿運動模擬) w15:</title><link href="./linkages-si-lian-gan-yu-duo-lian-gan-yun-dong-mo-ni-w15.html" rel="alternate"></link><published>2016-12-30T12:00:00+08:00</published><updated>2016-12-30T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-12-30:./linkages-si-lian-gan-yu-duo-lian-gan-yun-dong-mo-ni-w15.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;&lt;p&gt;Linkages (四連桿與多連桿運動模擬):&lt;/p&gt;&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/oxu-mzaZjss" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
@@ -42,7 +45,10 @@
 
 &lt;p&gt;&lt;img src="./../data/40423223...png" width="800" /&gt;&lt;/p&gt;</summary><category term="上課內容"></category><category term="OnShape"></category><category term="SolveSpace"></category></entry><entry><title>複習 w14:</title><link href="./fu-xi-w14.html" rel="alternate"></link><published>2016-12-23T12:00:00+08:00</published><updated>2016-12-23T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-12-23:./fu-xi-w14.html</id><summary type="html">&lt;h2&gt;練習老師之前說過的內容與推送&lt;/h2&gt;</summary><category term="上課內容"></category></entry><entry><title>Solvespace 組合圖 w13</title><link href="./solvespace-zu-he-tu-w13.html" rel="alternate"></link><published>2016-12-16T12:00:00+08:00</published><updated>2016-12-16T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-12-16:./solvespace-zu-he-tu-w13.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/m0YauffEFuY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>Solvespace 零件組合 無法更新! w12</title><link href="./solvespace-ling-jian-zu-he-wu-fa-geng-xin-w12.html" rel="alternate"></link><published>2016-12-09T12:00:00+08:00</published><updated>2016-12-09T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-12-09:./solvespace-ling-jian-zu-he-wu-fa-geng-xin-w12.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/m0YauffEFuY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;心得:再把零件組起來的時候，有時候都會左右亂掉，所以在組合時
+要非常專心，最後完成時非常有成就感&lt;/p&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>Solvespace 零件組合 無法更新! w12</title><link href="./solvespace-ling-jian-zu-he-wu-fa-geng-xin-w12.html" rel="alternate"></link><published>2016-12-09T12:00:00+08:00</published><updated>2016-12-09T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-12-09:./solvespace-ling-jian-zu-he-wu-fa-geng-xin-w12.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;Solvespace 組合圖&lt;/p&gt;
 
