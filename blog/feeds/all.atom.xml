@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423223個人網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-01-13T12:00:00+08:00</updated><entry><title>2016 Fall 電腦輔助設計與實習期末自評總結</title><link href="./2016-fall-dian-nao-fu-zhu-she-ji-yu-shi-xi-qi-mo-zi-ping-zong-jie.html" rel="alternate"></link><published>2017-01-13T12:00:00+08:00</published><updated>2017-01-13T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2017-01-13:./2016-fall-dian-nao-fu-zhu-she-ji-yu-shi-xi-qi-mo-zi-ping-zong-jie.html</id><summary type="html">&lt;table class="codehilitetable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;    課程總結
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423223個人網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-01-13T12:00:00+08:00</updated><entry><title>2016 Fall 電腦輔助設計與實習期末總結</title><link href="./2016-fall-dian-nao-fu-zhu-she-ji-yu-shi-xi-qi-mo-zong-jie.html" rel="alternate"></link><published>2017-01-13T12:00:00+08:00</published><updated>2017-01-13T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2017-01-13:./2016-fall-dian-nao-fu-zhu-she-ji-yu-shi-xi-qi-mo-zong-jie.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;table class="codehilitetable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;    課程總結
 &lt;/pre&gt;&lt;/div&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 
@@ -27,14 +29,22 @@
 &lt;p&gt;1.radinsed半徑 2.diameter直徑 3.place放置 4.symmetrically對稱 5.lnitially開始 6.oriented定位 7.axes軸 8.indicated表示 9.respectively分別 10.parallel平行 11.extruding長出 12.automatically自動 13.coincident一模一樣 14.constraint約束 15.horizontal橫 16.perpendicular垂直 17.step圖(格式)&lt;/p&gt;
 &lt;p&gt;錄影工具:sharex 1.paths 2.task → screen recorder → options 開始錄製:shift+ print screen 射出成型軟體:moldex3d&lt;/p&gt;
 &lt;p&gt;proxy設定:proxy.mde.tw 通訊阜:3128 去聲音指令:ffmpeg.exe -i 檔名 -c copy -an out.mp4 字幕指令:ffmpeg.exe -i out.mp4 -vf subtitles=in.srt out2.mp4 安裝pelican指令:pip install pelican&lt;/p&gt;
-&lt;p&gt;刪除指令:git rm -rf 下載分支內的東西:git submodule update --init --recursive 子模組的對應版本更新到目前最新提交:git submodule foreach "(git checkout gh-pages; git pull)&lt;/p&gt;</summary><category term="期末自評總結"></category></entry><entry><title>onshape 連桿組裝 w16:</title><link href="./onshape-lian-gan-zu-zhuang-w16.html" rel="alternate"></link><published>2017-01-06T12:00:00+08:00</published><updated>2017-01-06T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2017-01-06:./onshape-lian-gan-zu-zhuang-w16.html</id><summary type="html">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mLwSzInik70" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>Linkages (四連桿與多連桿運動模擬) w15:</title><link href="./linkages-si-lian-gan-yu-duo-lian-gan-yun-dong-mo-ni-w15.html" rel="alternate"></link><published>2016-12-30T12:00:00+08:00</published><updated>2016-12-30T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-12-30:./linkages-si-lian-gan-yu-duo-lian-gan-yun-dong-mo-ni-w15.html</id><summary type="html">&lt;p&gt;&lt;p&gt;Linkages (四連桿與多連桿運動模擬):&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;刪除指令:git rm -rf 下載分支內的東西:git submodule update --init --recursive 子模組的對應版本更新到目前最新提交:git submodule foreach "(git checkout gh-pages; git pull)&lt;/p&gt;</summary><category term="期末自評總結"></category></entry><entry><title>onshape 連桿組裝 w16:</title><link href="./onshape-lian-gan-zu-zhuang-w16.html" rel="alternate"></link><published>2017-01-06T12:00:00+08:00</published><updated>2017-01-06T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2017-01-06:./onshape-lian-gan-zu-zhuang-w16.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mLwSzInik70" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>Linkages (四連桿與多連桿運動模擬) w15:</title><link href="./linkages-si-lian-gan-yu-duo-lian-gan-yun-dong-mo-ni-w15.html" rel="alternate"></link><published>2016-12-30T12:00:00+08:00</published><updated>2016-12-30T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-12-30:./linkages-si-lian-gan-yu-duo-lian-gan-yun-dong-mo-ni-w15.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;&lt;p&gt;Linkages (四連桿與多連桿運動模擬):&lt;/p&gt;&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/oxu-mzaZjss" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;img src="./../data/40423223..png" width="800" /&gt;&lt;/p&gt;
 
 &lt;p&gt;將所得到的點座標 .csv 以 Excel 畫圖, 得到:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="./../data/40423223...png" width="800" /&gt;&lt;/p&gt;</summary><category term="上課內容"></category><category term="OnShape"></category><category term="SolveSpace"></category></entry><entry><title>複習 w14:</title><link href="./fu-xi-w14.html" rel="alternate"></link><published>2016-12-23T12:00:00+08:00</published><updated>2016-12-23T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-12-23:./fu-xi-w14.html</id><summary type="html">&lt;h2&gt;練習老師之前說過的內容與推送&lt;/h2&gt;</summary><category term="上課內容"></category></entry><entry><title>Solvespace 組合圖 w13</title><link href="./solvespace-zu-he-tu-w13.html" rel="alternate"></link><published>2016-12-16T12:00:00+08:00</published><updated>2016-12-16T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-12-16:./solvespace-zu-he-tu-w13.html</id><summary type="html">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/m0YauffEFuY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>Solvespace 零件組合 無法更新! w12</title><link href="./solvespace-ling-jian-zu-he-wu-fa-geng-xin-w12.html" rel="alternate"></link><published>2016-12-09T12:00:00+08:00</published><updated>2016-12-09T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-12-09:./solvespace-ling-jian-zu-he-wu-fa-geng-xin-w12.html</id><summary type="html">&lt;p&gt;Solvespace 組合圖&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/40423223...png" width="800" /&gt;&lt;/p&gt;</summary><category term="上課內容"></category><category term="OnShape"></category><category term="SolveSpace"></category></entry><entry><title>複習 w14:</title><link href="./fu-xi-w14.html" rel="alternate"></link><published>2016-12-23T12:00:00+08:00</published><updated>2016-12-23T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-12-23:./fu-xi-w14.html</id><summary type="html">&lt;h2&gt;練習老師之前說過的內容與推送&lt;/h2&gt;</summary><category term="上課內容"></category></entry><entry><title>Solvespace 組合圖 w13</title><link href="./solvespace-zu-he-tu-w13.html" rel="alternate"></link><published>2016-12-16T12:00:00+08:00</published><updated>2016-12-16T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-12-16:./solvespace-zu-he-tu-w13.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/m0YauffEFuY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>Solvespace 零件組合 無法更新! w12</title><link href="./solvespace-ling-jian-zu-he-wu-fa-geng-xin-w12.html" rel="alternate"></link><published>2016-12-09T12:00:00+08:00</published><updated>2016-12-09T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-12-09:./solvespace-ling-jian-zu-he-wu-fa-geng-xin-w12.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;Solvespace 組合圖&lt;/p&gt;
 
 &lt;iframe src="./../data/40423223.html" width="800" height="600"&gt;&lt;/iframe&gt;
 
@@ -50,7 +60,9 @@
 
 The tag `notebook` on line 13 in `plugin/liquid_tags/test_data/content/test-ipython-notebook-nbformat3.md` is not a recognized Liquid tag. For more information, see https://help.github.com/articles/page-build-failed-unknown-tag-error.
 
-&lt;/p&gt;</summary><category term="上課內容"></category><category term="解決問題"></category><category term="SolveSpace"></category></entry><entry><title>校慶!!! week2 W11</title><link href="./xiao-qing-week2-w11.html" rel="alternate"></link><published>2016-12-02T12:00:00+08:00</published><updated>2016-12-02T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-12-02:./xiao-qing-week2-w11.html</id><summary type="html">&lt;p&gt;week2-1&lt;/p&gt;
+&lt;/p&gt;</summary><category term="上課內容"></category><category term="解決問題"></category><category term="SolveSpace"></category></entry><entry><title>校慶!!! week2 W11</title><link href="./xiao-qing-week2-w11.html" rel="alternate"></link><published>2016-12-02T12:00:00+08:00</published><updated>2016-12-02T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-12-02:./xiao-qing-week2-w11.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;week2-1&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/-8yrDF_-v2w" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;week2-2&lt;/p&gt;
@@ -142,15 +154,23 @@ ctx.strokeStyle = "blue"
 ctx.stroke()
 ctx.closePath()
 &lt;/script&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>week1W9</title><link href="./week1w9.html" rel="alternate"></link><published>2016-11-11T12:00:00+08:00</published><updated>2016-11-11T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-11-11:./week1w9.html</id><summary type="html">&lt;p&gt;week1&lt;/p&gt;
+
+
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/DeiSRrQImVA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;心得:第一次用onshape我覺得比solvespace好用很多但是可能是第一次用的關西所以對於功能還不是這麼熟練&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>期中課程評量W8</title><link href="./qi-zhong-ke-cheng-ping-liang-w8.html" rel="alternate"></link><published>2016-11-04T12:00:00+08:00</published><updated>2016-11-04T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-11-04:./qi-zhong-ke-cheng-ping-liang-w8.html</id><summary type="html">&lt;h2&gt;&lt;a href="http://pygroup-ag100.rhcloud.com"&gt;期中評量&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;心得:第一次用onshape我覺得比solvespace好用很多但是可能是第一次用的關西所以對於功能還不是這麼熟練&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>期中課程評量W8</title><link href="./qi-zhong-ke-cheng-ping-liang-w8.html" rel="alternate"></link><published>2016-11-04T12:00:00+08:00</published><updated>2016-11-04T12:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2016-11-04:./qi-zhong-ke-cheng-ping-liang-w8.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;p&gt;到老師指定的地方打分數&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>畫出聯桿路徑W7</title><link href="./hua-chu-lian-gan-lu-jing-w7.html" rel="alternate"></link><published>2016-10-28T12:00:00+08:00</published><updated>2016-10-28T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-10-28:./hua-chu-lian-gan-lu-jing-w7.html</id><summary type="html">&lt;h2&gt;使用Trace Point計算路徑&lt;h2&gt;
+&lt;h2&gt;&lt;a href="http://pygroup-ag100.rhcloud.com"&gt;期中評量&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;到老師指定的地方打分數&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>畫出聯桿路徑W7</title><link href="./hua-chu-lian-gan-lu-jing-w7.html" rel="alternate"></link><published>2016-10-28T12:00:00+08:00</published><updated>2016-10-28T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-10-28:./hua-chu-lian-gan-lu-jing-w7.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h2&gt;使用Trace Point計算路徑&lt;h2&gt;
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/tdflDTZT9LU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;img src="./../data/40423223....png" width="800" /&gt;</summary><category term="上課內容"></category><category term="解決問題"></category><category term="子模組"></category></entry><entry><title>解決對應上的問題W6</title><link href="./jie-jue-dui-ying-shang-de-wen-ti-w6.html" rel="alternate"></link><published>2016-10-21T12:00:00+08:00</published><updated>2016-10-21T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-10-21:./jie-jue-dui-ying-shang-de-wen-ti-w6.html</id><summary type="html">&lt;p&gt;有兩個方法&lt;/p&gt;
+&lt;img src="./../data/40423223....png" width="800" /&gt;</summary><category term="上課內容"></category><category term="解決問題"></category><category term="子模組"></category></entry><entry><title>解決對應上的問題W6</title><link href="./jie-jue-dui-ying-shang-de-wen-ti-w6.html" rel="alternate"></link><published>2016-10-21T12:00:00+08:00</published><updated>2016-10-21T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-10-21:./jie-jue-dui-ying-shang-de-wen-ti-w6.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;有兩個方法&lt;/p&gt;
 
 &lt;h2&gt;法一&lt;/h2&gt;
 
@@ -163,17 +183,23 @@ ctx.closePath()
 &lt;p&gt;直接依序執行以下的指令&lt;/p&gt;
 
 &lt;p&gt;但是在2016fallcadp_bg3\.git\modules裡的隱藏資料夾,還是需要自己動手刪除&lt;/p&gt;</summary><category term="上課內容"></category><category term="解決問題"></category><category term="子模組"></category></entry><entry><title>新的繪圖軟體SolveSpaceW5</title><link href="./xin-de-hui-tu-ruan-ti-solvespacew5.html" rel="alternate"></link><published>2016-10-14T12:00:00+08:00</published><updated>2016-10-14T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-10-14:./xin-de-hui-tu-ruan-ti-solvespacew5.html</id><summary type="html">&lt;p&gt;今天介紹了新的繪圖軟體SolveSpace用起來不太習慣
-功能也還不太會用之後要多多練習&lt;/p&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>建立小組W4</title><link href="./jian-li-xiao-zu-w4.html" rel="alternate"></link><published>2016-10-07T12:00:00+08:00</published><updated>2016-10-07T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-10-07:./jian-li-xiao-zu-w4.html</id><summary type="html">&lt;h2&gt;建立各小組的倉儲把成員加入倉儲內&lt;/h2&gt;</summary><category term="上課內容"></category></entry><entry><title>網路更改W3</title><link href="./wang-lu-geng-gai-w3.html" rel="alternate"></link><published>2016-09-30T12:00:00+08:00</published><updated>2016-09-30T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-09-30:./wang-lu-geng-gai-w3.html</id><summary type="html">&lt;p&gt;&lt;h&gt;複製網誌和簡報的設定檔到2016fallcadp_hw的倉儲&lt;/h&gt;
+功能也還不太會用之後要多多練習&lt;/p&gt;</summary><category term="上課內容"></category><category term="SolveSpace"></category></entry><entry><title>建立小組W4</title><link href="./jian-li-xiao-zu-w4.html" rel="alternate"></link><published>2016-10-07T12:00:00+08:00</published><updated>2016-10-07T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-10-07:./jian-li-xiao-zu-w4.html</id><summary type="html">&lt;h2&gt;建立各小組的倉儲把成員加入倉儲內&lt;/h2&gt;</summary><category term="上課內容"></category></entry><entry><title>網路更改W3</title><link href="./wang-lu-geng-gai-w3.html" rel="alternate"></link><published>2016-09-30T12:00:00+08:00</published><updated>2016-09-30T12:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2016-09-30:./wang-lu-geng-gai-w3.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;&lt;h&gt;複製網誌和簡報的設定檔到2016fallcadp_hw的倉儲&lt;/h&gt;
 更改較快網路&lt;/p&gt;
 &lt;p&gt;由於上課時都是用同一個網路所以大家網路都會
 變得很慢切，換網路後會比一開始的快很多&lt;/p&gt;
-&lt;h3&gt;proxy.mde.tw  3128&lt;/h3&gt;</summary><category term="上課內容"></category><category term="解決問題"></category><category term="環境設定"></category></entry><entry><title>SolveSpace 2D w2</title><link href="./solvespace-2d-w2.html" rel="alternate"></link><published>1111-02-22T22:22:00+08:06</published><updated>1111-02-22T22:22:00+08:06</updated><author><name>40423223</name></author><id>tag:,1111-02-22:./solvespace-2d-w2.html</id><summary type="html">&lt;p&gt;2D成品&lt;/p&gt;
+&lt;h3&gt;proxy.mde.tw  3128&lt;/h3&gt;</summary><category term="上課內容"></category><category term="解決問題"></category><category term="環境設定"></category></entry><entry><title>SolveSpace 2D w2</title><link href="./solvespace-2d-w2.html" rel="alternate"></link><published>1111-02-22T22:22:00+08:06</published><updated>1111-02-22T22:22:00+08:06</updated><author><name>40423223</name></author><id>tag:,1111-02-22:./solvespace-2d-w2.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;2D成品&lt;/p&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/190062872" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="https://vimeo.com/190062872"&gt;40423223設計二乙林德威 作業2&lt;/a&gt; from &lt;a href="https://vimeo.com/user57340245"&gt;林德威&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;心得:這一此畫2D的平面圖發現這個軟體好多新的功能已經感覺越畫越順了&lt;/p&gt;</summary><category term="SolveSpace"></category></entry><entry><title>SolveSpace 3D w1</title><link href="./solvespace-3d-w1.html" rel="alternate"></link><published>1111-02-22T22:22:00+08:06</published><updated>1111-02-22T22:22:00+08:06</updated><author><name>40423223</name></author><id>tag:,1111-02-22:./solvespace-3d-w1.html</id><summary type="html">&lt;p&gt;3D成品&lt;/p&gt;
+&lt;p&gt;心得:這一此畫2D的平面圖發現這個軟體好多新的功能已經感覺越畫越順了&lt;/p&gt;</summary><category term="SolveSpace"></category></entry><entry><title>SolveSpace 3D w1</title><link href="./solvespace-3d-w1.html" rel="alternate"></link><published>1111-02-22T22:22:00+08:06</published><updated>1111-02-22T22:22:00+08:06</updated><author><name>40423223</name></author><id>tag:,1111-02-22:./solvespace-3d-w1.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;3D成品&lt;/p&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/185115914" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
